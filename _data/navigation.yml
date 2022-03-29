@@ -3,85 +3,85 @@ daftar-matkul:
   - title: Bahasa Indonesia untuk Riset TI
     children:
       - title: "Kalimat Ilmiah Bahasa Indonesia"
-        url: /Bahasa Indonesia untuk Riset TI/kalimat-ilmiah-bahasa-indonesia/
+        url: /Bahasa Indonesia untuk Riset TI/kalimat-ilmiah-bahasa-indonesia.html
       - title: "Kata dan Frasa Bahasa Indonesia"
-        url: /Bahasa Indonesia untuk Riset TI/kata-dan-frasa-bahasa-indonesia/
+        url: /Bahasa Indonesia untuk Riset TI/kata-dan-frasa-bahasa-indonesia.html
       - title: "Paragraf Bahasa Indonesia"
-        url: /Bahasa Indonesia untuk Riset TI/paragraf-bahasa-indonesia/
+        url: /Bahasa Indonesia untuk Riset TI/paragraf-bahasa-indonesia.html
       - title: "Kontrak Kuliah"
-        url: /Bahasa Indonesia untuk Riset TI/kontrak-kuliah/
+        url: /Bahasa Indonesia untuk Riset TI/kontrak-kuliah.html
 
   - title: Technopreneur
     children:
       - title: "Menggali Ide Bisnis dan Prinsip Dasar Bisnis"
-        url: /Technopreneur/menggali-ide-bisnis-dan-prinsip-dasar-bisnis/
+        url: /Technopreneur/menggali-ide-bisnis-dan-prinsip-dasar-bisnis.html
       - title: "Pendahuluan"
-        url: /Technopreneur/pendahuluan/
+        url: /Technopreneur/pendahuluan.html
       - title: "Teori Technopreneurship"
-        url: /Technopreneur/teori-technopreneurship/
+        url: /Technopreneur/teori-technopreneurship.html
 
   - title: Paralel Komputer dan Sistem Terdistribusi
     children:
       - title: "Kontrak Kuliah"
-        url: /Paralel Komputer dan Sistem Terdistribusi/kontrak-kuliah/
+        url: /Paralel Komputer dan Sistem Terdistribusi/kontrak-kuliah.html
       - title: "Komunikasi Antar Prosesor"
-        url: /Paralel Komputer dan Sistem Terdistribusi/komunikasi-antar-prosesor/
+        url: /Paralel Komputer dan Sistem Terdistribusi/komunikasi-antar-prosesor.html
       - title: "Arsitektur Von Neumann"
-        url: /Paralel Komputer dan Sistem Terdistribusi/arsitektur-von-neumann/
+        url: /Paralel Komputer dan Sistem Terdistribusi/arsitektur-von-neumann.html
       - title: "Pembetulan Kesalahan"
-        url: /Paralel Komputer dan Sistem Terdistribusi/pembetulan-kesalahan/
+        url: /Paralel Komputer dan Sistem Terdistribusi/pembetulan-kesalahan.html
       - title: "Teknik Deteksi Error"
-        url: /Paralel Komputer dan Sistem Terdistribusi/teknik-deteksi-error/
+        url: /Paralel Komputer dan Sistem Terdistribusi/teknik-deteksi-error.html
       - title: "Pengantar Komputasi Paralel"
-        url: /Paralel Komputer dan Sistem Terdistribusi/pengantar-komputasi-paralel/
+        url: /Paralel Komputer dan Sistem Terdistribusi/pengantar-komputasi-paralel.html
       - title: "Shared Memory"
-        url: /Paralel Komputer dan Sistem Terdistribusi/shared-memory/
+        url: /Paralel Komputer dan Sistem Terdistribusi/shared-memory.html
 
   - title: Manajemen Proyek TI
     children:
       - title: "Pendahuluan"
-        url: /Manajemen Proyek TI/pendahuluan/
+        url: /Manajemen Proyek TI/pendahuluan.html
       - title: "Project Time Management"
-        url: /Manajemen Proyek TI/project-time-management/
+        url: /Manajemen Proyek TI/project-time-management.html
 
   - title: Rekayasa Perangkat Lunak
     children:
       - title: "Kontrak Kuliah"
-        url: /Rekayasa Perangkat Lunak/kontrak-kuliah/
+        url: /Rekayasa Perangkat Lunak/kontrak-kuliah.html
       - title: "Pemodelan Analisis"
-        url: /Rekayasa Perangkat Lunak/pemodelan-analisis/
+        url: /Rekayasa Perangkat Lunak/pemodelan-analisis.html
       - title: "Model Proses Perangkat Lunak"
-        url: /Rekayasa Perangkat Lunak/model-proses-perangkat-lunak/
+        url: /Rekayasa Perangkat Lunak/model-proses-perangkat-lunak.html
       - title: "Pemodelan Data"
-        url: /Rekayasa Perangkat Lunak/pemodelan-data/
+        url: /Rekayasa Perangkat Lunak/pemodelan-data.html
       - title: "Pengembangan Perangkat Lunak"
-        url: /Rekayasa Perangkat Lunak/pengembangan-perangkat-lunak/
+        url: /Rekayasa Perangkat Lunak/pengembangan-perangkat-lunak.html
       - title: "UTS"
-        url: /Rekayasa Perangkat Lunak/uts/
+        url: /Rekayasa Perangkat Lunak/uts.html
       - title: "Konsep Dasar"
-        url: /Rekayasa Perangkat Lunak/konsep-dasar/
+        url: /Rekayasa Perangkat Lunak/konsep-dasar.html
       - title: "Software Requirements"
-        url: /Rekayasa Perangkat Lunak/software-requirements/
+        url: /Rekayasa Perangkat Lunak/software-requirements.html
 
   - title: Komputer dan Masyarakat
     children:
       - title: "Industrial Revolution"
-        url: /Komputer dan Masyarakat/industrial-revolution/
+        url: /Komputer dan Masyarakat/industrial-revolution.html
       - title: "Digital Divide"
-        url: /Komputer dan Masyarakat/digital-divide/
+        url: /Komputer dan Masyarakat/digital-divide.html
       - title: "Hak Atas Kekayaan Intelektual (HAKI)"
-        url: /Komputer dan Masyarakat/hak-atas-kekayaan-intelektual-(haki)/
+        url: /Komputer dan Masyarakat/hak-atas-kekayaan-intelektual-(haki).html
 
   - title: Pemrograman Berorientasi Obyek
     children:
       - title: "Kontrak Kuliah"
-        url: /Pemrograman Berorientasi Obyek/kontrak-kuliah/
+        url: /Pemrograman Berorientasi Obyek/kontrak-kuliah.html
       - title: "Pemrograman Elementer"
-        url: /Pemrograman Berorientasi Obyek/pemrograman-elementer/
+        url: /Pemrograman Berorientasi Obyek/pemrograman-elementer.html
       - title: "Pengantar Java"
-        url: /Pemrograman Berorientasi Obyek/pengantar-java/
+        url: /Pemrograman Berorientasi Obyek/pengantar-java.html
 
   - title: Pemrograman Mobile
     children:
       - title: "Kontrak Kuliah"
-        url: /Pemrograman Mobile/kontrak-kuliah/
+        url: /Pemrograman Mobile/kontrak-kuliah.html
