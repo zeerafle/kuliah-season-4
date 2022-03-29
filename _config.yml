@@ -2,3 +2,11 @@ remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
+
+defaults:
+  # _docs
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "daftar-matkul"
