@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Teknik Deteksi Error"
+permalink: /pkst/teknik-deteksi-error/
+---
+
 # Teknik Deteksi Error
 
 Ketika suatu frame ditransmisikan, terdapat tiga class probabilitas yang dapat muncul pada akhir penerimaan:
