@@ -12,4 +12,4 @@ for folder in all_file:
         for file in os.listdir(folder):
             if file.endswith(".md"):
                 f.write(f"      - title: \"{file[:-3]}\"\n")
-                f.write(f"        url: /{folder}/{file.lower().replace(' ', '-')[:-3]}/\n")
+                f.write(f"        url: /{folder}/{file.lower().replace(' ', '-')[:-2] + 'html'}\n")
