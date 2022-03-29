@@ -1,12 +1,27 @@
 remote_theme: mmistakes/minimal-mistakes
 
+minimal_mistakes_skin : "mint"
+
 plugins:
   - jekyll-include-cache
 
+collections:
+  matkul:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
-  # _docs
+  # _matkul
   - scope:
       path: ""
+      type: matkul
     values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: true
+      comments: false
       sidebar:
         nav: "daftar-matkul"
+  
+include: ["_matkul"]
