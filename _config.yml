@@ -2,6 +2,8 @@ remote_theme: mmistakes/minimal-mistakes
 
 minimal_mistakes_skin : "mint"
 
+baseurl: "/kuliah-season-4"
+
 plugins:
   - jekyll-include-cache
 
@@ -24,4 +26,5 @@ defaults:
       sidebar:
         nav: "daftar-matkul"
   
-include: ["_matkul"]
+include:
+  - _matkul
