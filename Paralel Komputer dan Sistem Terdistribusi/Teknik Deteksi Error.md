@@ -34,7 +34,7 @@ Merupakan pengembangan dari kelemahan parity check.
 
 Contoh. Akan dilakukan pentransmisian string "DATA" dengan teknik LRC paritas ganjil. Data tersebut diubah menjadi sebuah blok yang terbagi menjadi empat baris. Masing-masing karakter direpresentasikan dengan biner kemudian dihitung paritasnya baik secara longitudinal maupun horizontal
 
-![Pasted image 20220318154253.png](Pasted%20image%2020220318154253.png)
+![Pasted image 20220318154253.png](attachments/Pasted%20image%2020220318154253.png)
 
 ## Cyclic redudancy Check (CRC)
 
@@ -45,6 +45,8 @@ Contoh, dengan pembagian berjenjang
 M = 11100101
 P = 
 
-![Pasted image 20220318155935.png](Pasted%20image%2020220318155935.png)
-![Pasted image 20220318155619.png](Pasted%20image%2020220318155619.png)
-![Pasted image 20220318160454.png](Pasted%20image%2020220318160454.png)
+![Pasted image 20220318155935.png](attachments/Pasted%20image%2020220318155935.png)
+![Pasted image 20220318155619.png](attachments/Pasted%20image%2020220318155619.png)
+![Pasted image 20220318160454.png](attachments/Pasted%20image%2020220318160454.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6gbkoFciryA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
