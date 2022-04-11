@@ -41,11 +41,15 @@ daftar-matkul:
     children:
       - title: "Pendahuluan"
         url: /Manajemen Proyek TI/Pendahuluan
+      - title: "Manajemen Mutu Proyek"
+        url: /Manajemen Proyek TI/Manajemen Mutu Proyek
       - title: "Project Time Management"
         url: /Manajemen Proyek TI/Project Time Management
 
   - title: Rekayasa Perangkat Lunak
     children:
+      - title: "Object Oriented Analysis Design (OOAD)"
+        url: /Rekayasa Perangkat Lunak/Object Oriented Analysis Design (OOAD)
       - title: "Kontrak Kuliah"
         url: /Rekayasa Perangkat Lunak/Kontrak Kuliah
       - title: "Pemodelan Analisis"
@@ -74,6 +78,8 @@ daftar-matkul:
 
   - title: Pemrograman Berorientasi Obyek
     children:
+      - title: "Kontrak Kuliah 2"
+        url: /Pemrograman Berorientasi Obyek/Kontrak Kuliah 2
       - title: "Kontrak Kuliah"
         url: /Pemrograman Berorientasi Obyek/Kontrak Kuliah
       - title: "Pemrograman Elementer"
