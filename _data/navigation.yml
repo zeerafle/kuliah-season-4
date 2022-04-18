@@ -10,6 +10,8 @@ daftar-matkul:
         url: /Bahasa Indonesia untuk Riset TI/Paragraf Bahasa Indonesia
       - title: "Kontrak Kuliah"
         url: /Bahasa Indonesia untuk Riset TI/Kontrak Kuliah
+      - title: "Perumusan Topik dan Judul Karangan"
+        url: /Bahasa Indonesia untuk Riset TI/Perumusan Topik dan Judul Karangan
 
   - title: Technopreneur
     children:
@@ -24,6 +26,8 @@ daftar-matkul:
     children:
       - title: "Kontrak Kuliah"
         url: /Paralel Komputer dan Sistem Terdistribusi/Kontrak Kuliah
+      - title: "Communication"
+        url: /Paralel Komputer dan Sistem Terdistribusi/Communication
       - title: "Komunikasi Antar Prosesor"
         url: /Paralel Komputer dan Sistem Terdistribusi/Komunikasi Antar Prosesor
       - title: "Arsitektur Von Neumann"
@@ -64,6 +68,8 @@ daftar-matkul:
         url: /Rekayasa Perangkat Lunak/UTS
       - title: "Konsep Dasar"
         url: /Rekayasa Perangkat Lunak/Konsep Dasar
+      - title: "Class Diagram"
+        url: /Rekayasa Perangkat Lunak/Class Diagram
       - title: "Software Requirements"
         url: /Rekayasa Perangkat Lunak/Software Requirements
 
