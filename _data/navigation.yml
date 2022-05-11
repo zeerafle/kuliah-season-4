@@ -43,6 +43,8 @@ daftar-matkul:
 
   - title: Manajemen Proyek TI
     children:
+      - title: "Chart"
+        url: /Manajemen Proyek TI/Chart
       - title: "Pendahuluan"
         url: /Manajemen Proyek TI/Pendahuluan
       - title: "Manajemen Mutu Proyek"
@@ -64,6 +66,8 @@ daftar-matkul:
         url: /Rekayasa Perangkat Lunak/Pemodelan Data
       - title: "Pengembangan Perangkat Lunak"
         url: /Rekayasa Perangkat Lunak/Pengembangan Perangkat Lunak
+      - title: "Activity Diagram"
+        url: /Rekayasa Perangkat Lunak/Activity Diagram
       - title: "UTS"
         url: /Rekayasa Perangkat Lunak/UTS
       - title: "Konsep Dasar"
@@ -97,3 +101,5 @@ daftar-matkul:
     children:
       - title: "Kontrak Kuliah"
         url: /Pemrograman Mobile/Kontrak Kuliah
+      - title: "Navigation"
+        url: /Pemrograman Mobile/Navigation
