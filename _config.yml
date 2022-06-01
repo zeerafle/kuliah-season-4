@@ -14,8 +14,8 @@ defaults:
       layout: single
       read_time: true
       author_profile: false
-      share: true
       comments: false
+      toc: true
       sidebar:
         nav: "daftar-matkul"
 
