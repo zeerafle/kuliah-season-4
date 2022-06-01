@@ -24,22 +24,32 @@ daftar-matkul:
 
   - title: Paralel Komputer dan Sistem Terdistribusi
     children:
+      - title: "Fault Tolerance"
+        url: /Paralel Komputer dan Sistem Terdistribusi/Fault Tolerance
+      - title: "Naming"
+        url: /Paralel Komputer dan Sistem Terdistribusi/Naming
       - title: "Kontrak Kuliah"
         url: /Paralel Komputer dan Sistem Terdistribusi/Kontrak Kuliah
-      - title: "Communication"
-        url: /Paralel Komputer dan Sistem Terdistribusi/Communication
       - title: "Komunikasi Antar Prosesor"
         url: /Paralel Komputer dan Sistem Terdistribusi/Komunikasi Antar Prosesor
       - title: "Arsitektur Von Neumann"
         url: /Paralel Komputer dan Sistem Terdistribusi/Arsitektur Von Neumann
+      - title: "For UAS"
+        url: /Paralel Komputer dan Sistem Terdistribusi/For UAS
       - title: "Pembetulan Kesalahan"
         url: /Paralel Komputer dan Sistem Terdistribusi/Pembetulan Kesalahan
+      - title: "Sinkronisasi"
+        url: /Paralel Komputer dan Sistem Terdistribusi/Sinkronisasi
       - title: "Teknik Deteksi Error"
         url: /Paralel Komputer dan Sistem Terdistribusi/Teknik Deteksi Error
       - title: "Pengantar Komputasi Paralel"
         url: /Paralel Komputer dan Sistem Terdistribusi/Pengantar Komputasi Paralel
+      - title: "Komunikasi"
+        url: /Paralel Komputer dan Sistem Terdistribusi/Komunikasi
       - title: "Shared Memory"
         url: /Paralel Komputer dan Sistem Terdistribusi/Shared Memory
+      - title: "Consistency & Replication"
+        url: /Paralel Komputer dan Sistem Terdistribusi/Consistency & Replication
 
   - title: Manajemen Proyek TI
     children:

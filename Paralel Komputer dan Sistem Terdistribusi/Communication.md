@@ -1,4 +1,0 @@
-# Klasifikasi Komunikasi
-
-## Socket Communication
-
